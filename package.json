@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "inquirer": "^12.4.1",
+    "qr-image": "^3.2.0",
+    "sillyname": "^0.1.0",
+    "superheroes": "^4.0.0"
+  },
+  "name": "mumphry",
+  "version": "5.5.5",
+  "description": "mumphry the best among the rest",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "caparas",
+  "license": "ISC"
+}
